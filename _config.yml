@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sebastian Castellanos"
 title_separator          : "-"
 name                     : &name "Sebastian Castellanos"
-description              : &description "Transport - Climate  Technology - Policy"
+description              : &description "Transport - Climate - Technology - Policy"
 url                      : https://sebcast.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sebcast/sebcast.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sebastian Castellanos"
   avatar           : "profile.png"
-  bio              : "Transport - Climate - Technology - Policy"
+  bio              : "Transport - Climate Technology - Policy"
   location         : "DC, Leeds, Bogotá"
   employer         :
   pubmed           : 
