@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Sebastian Castellanos"
-  avatar           : "profile.png"
+  avatar           : "animation.gif"
   bio              : "Transport - Climate Technology - Policy"
   location         : "DC, Leeds, Bogotá"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GGJKbKcAAAAJ&hl=en"
   email            : "ts13jscv@leeds.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Sebastian_Castellanos5"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sebcast"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
