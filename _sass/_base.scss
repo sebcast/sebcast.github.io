@@ -14,12 +14,23 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-   background-image: url("../../images/tube.png"); opacity:0.1;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
+}
+
+body::after {
+  background: url("../../images/tube.png");
+  content: "";
+  opacity: 0.1;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: -1;   
 }
 
 h1, h2, h3, h4, h5, h6 {
