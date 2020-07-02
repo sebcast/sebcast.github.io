@@ -26,7 +26,7 @@
 
 
   @include breakpoint($x-large) {
-    padding-right: 100;
+    padding-right: 0;
   }
 
   h2, h3, h4, h5, h6 {
@@ -122,7 +122,7 @@
 }
 
 .author__bio {
-  margin: 0;
+  margin: 1000;
 
   @include breakpoint($large) {
     margin-top: 10px;
