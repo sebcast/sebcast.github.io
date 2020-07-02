@@ -97,7 +97,7 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
-  padding-right: 2225px;
+  padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -122,7 +122,7 @@
 }
 
 .author__bio {
-  margin: 0;
+  margin: auto;
 
   @include breakpoint($large) {
     margin-top: 10px;
