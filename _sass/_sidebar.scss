@@ -73,6 +73,8 @@
   display: table-cell;
   vertical-align: top;
   width: 36px;
+    margin-left: auto;
+    margin-right: auto;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -114,11 +116,13 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
+     text-align: center;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
+   
 }
 
 .author__bio {
@@ -127,7 +131,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-     text-align: center;
+    text-align: center;
   }
 }
 
