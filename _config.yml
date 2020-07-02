@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sebastian Castellanos"
   avatar           : "animation.gif"
-  bio              : "{text-align: center;}Transport - Climate - Technol\nogy - Policy"
+  bio              : {text-align: center;}"Transport - Climate - Technology - Policy"
   location         : "DC, Leeds, Bogotá"
   employer         :
   pubmed           : 
