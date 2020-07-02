@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="300" padding="10px" src="images/profile.png">
+<img align="right" width="300" style="padding: 10px; float: right;" src="images/profile.png">
 I'm Sebastian, and I'm passionate about sustainability, transport and technology.
 
 I am a PhD candidate at the University of Leeds where I look at the difference in governance approaches that cities have taken to address the issue of shared mobility, in order to propose better ways to govern technology in the transport sector.
