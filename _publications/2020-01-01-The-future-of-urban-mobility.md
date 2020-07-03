@@ -12,4 +12,4 @@ This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here](https://urbantransitions.global/wp-content/uploads/2020/04/The_Future_of_Urban_Mobility_web_FINAL.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Sclar, R., Werthmann, E., Orbea, J., Siqueira, E., Tavares, V., Pinheiro, B., Albuquerque, C. and Castellanos, S. 2020. "The Future of Urban Mobility: The case for electric bus deployment in Bogotá, Colombia." <i>Coalition for Urban Transitions</i>. London and Washington, DC.
