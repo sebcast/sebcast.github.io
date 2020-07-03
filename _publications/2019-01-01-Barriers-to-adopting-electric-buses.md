@@ -1,7 +1,7 @@
 ---
 title: "Barriers to Adopting Electric Buses"
 collection: publications
-permalink: /publication/2019-01-01-Barriers-to-adopting-electric-buses.md
+permalink: /publication/2013-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2020
 venue: 'WRI'
