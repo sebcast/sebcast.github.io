@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" width="300" style="padding: 10px; float: right;" src="images/profile.png">
 I'm Sebastian, and I'm passionate about sustainability, transport and technology.
 
 I am a PhD candidate at the University of Leeds where I look at the difference in governance approaches that cities have taken to address the issue of shared mobility, in order to propose better ways to govern technology in the transport sector.
@@ -18,3 +17,6 @@ I have a BSc. in electronic engineering from the Universidad de los Andes in Col
 In addition to my academic career, I am the research director at NUMO, the New Urban Mobility Alliance, and I am a project manager for WRI's Center for Sustainable Cities.
 
 Feel free to contact me using any of the channels on the left! 
+
+
+<img align="right" width="350" style="padding: 10px; float: right;" src="images/profile.png">
