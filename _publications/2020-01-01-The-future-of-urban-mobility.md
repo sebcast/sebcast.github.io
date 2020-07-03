@@ -5,6 +5,7 @@ permalink: /publication/2020-01-01-The-future-of-urban-mobility
 excerpt: 'Electrifying municipal bus fleets presents a unique opportunity to reduce local pollution, improve respiratory health and reduce greenhouse gas emissions in the transport sector. Despite the promises of electric buses (e-buses), their implementation faces many challenges, especially in Global South cities such as Bogotá, Colombia.'
 date: 2020-01-01
 venue: 'Coalition for Urban Transitions'
+paperurl: 'https://urbantransitions.global/wp-content/uploads/2020/04/The_Future_of_Urban_Mobility_web_FINAL.pdf'
 citation: 'Sclar, R., Werthmann, E., Orbea, J., Siqueira, E., Tavares, V., Pinheiro, B., Albuquerque, C. and Castellanos, S. 2020. &quot;The Future of Urban Mobility: The case for electric bus deployment in Bogotá, Colombia.&quot; <i>Coalition for Urban Transitions 1</i>. London and Washington, DC.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
