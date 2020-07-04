@@ -1,12 +1,11 @@
----
-title: "Delivering modal-shift incentives by using gamification and smartphones: A field study example in Bogota, Colombia"
+title: 'Delivering modal-shift incentives by using gamification and smartphones: A field study example in Bogota, Colombia'
 collection: publications
 permalink: /publication/2016-12-01-Delivering-modal-shift-incentives
 excerpt: 'This study investigates the use of both monetary and non-monetary incentives delivered through mobile phones, as a way of modifying citizens’ behaviour, specifically when it comes to generating modal shift towards more environmentally friendly modes of transport such as walking and cycling.'
 date: 2016-12-01
 venue: 'Case studies on transport policy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2213624X16300426'
-citation: 'Sebastián Castellanos&quot;Delivering modal-shift incentives by using gamification and smartphones: A field study example in Bogota, Colombia&quot;<i>Case studies on transport policy</i>.4(4), 269-278.'
+citation: 'Sebastián Castellanos&quot;Delivering modal-shift incentives by using gamification and smartphones: A field study example in Bogota, Colombia&quot;<i>'</i>.4(4), 269-278.'
 ---
 <b>Abstract:</b>
 "This study investigates the use of both monetary and non-monetary incentives delivered through mobile phones, as a way of modifying citizens’ behaviour, specifically when it comes to generating modal shift towards more environmentally friendly modes of transport such as walking and cycling.
