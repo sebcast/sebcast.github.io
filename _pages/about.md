@@ -11,7 +11,7 @@ About me
 ======
 I'm Sebastian, and I'm passionate about sustainability, transport and technology.
 
-I am a PhD candidate at the University of Leeds where I look at differences in the way cities govern shared mobility modes. The objective of my research is to propose better ways to govern technology in the transport sector, especially when new technologies are led by private sector stakeholders.
+I am a PhD candidate at the University of Leeds where I look at differences in the way cities govern shared mobility modes. The objective of my research is to propose better ways to govern technology in the transport sector, especially when new technologies deployed in our cities are being led by private sector stakeholders.
 
 <img align="right" width="350" style="padding: 10px; float: right;" src="images/profile.png">
 
