@@ -3,11 +3,22 @@ permalink: /research/
 title: "My Research"
 author_profile: true
 redirect_from: 
-  - /md/
+  - /myresearch/
   - /research.html
 ---
 
-## Locations of key files/directories
+## Governing for sustainability in an era of shared mobility
+
+Eight years ago Uber didn't exist. Five years ago dockless bikesharing systems didn't exist. Three years ago shared electric scooters didn't exist.
+
+We put our trust in elected officials to steer (govern) the direction in which society is moving but, how can these public officials deal with such technologies and services that just come out of the blue and get dumped in our cities?
+
+This is the basic premise of my research: can we come up with better governance tools for public sector officials to regain control of our societal future and steer it towards a path of sustainability?
+
+Does this topic catch your attention? then read on!
+
+## How are cities managing shared mobility today?
+<img align="center" width="350" style="padding: 10px; float: center;" src="images/shared-mobility-regulations.png">
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
