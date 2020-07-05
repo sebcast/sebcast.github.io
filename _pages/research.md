@@ -11,7 +11,7 @@ redirect_from:
 
 Eight years ago Uber didn't exist. Five years ago dockless bikesharing systems didn't exist. Three years ago shared electric scooters didn't exist.
 
-We put our trust in elected officials to steer (govern) the direction in which society is moving but, how can these public officials deal with such technologies and services that just come out of the blue and get dumped in our cities?
+We put our trust in elected officials to steer (govern) the direction in which society is moving but how can these public officials deal with these technologies and services that just come out of the blue and get dumped in our cities?
 
 This is the basic premise of my research: can we come up with better governance tools for public sector officials to regain control of our societal future and steer it towards a path of sustainability?
 
