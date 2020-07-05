@@ -18,7 +18,7 @@ This is the basic premise of my research: can we come up with better governance 
 Does this topic catch your attention? then read on!
 
 ## A hypothesis: 
- <div style="text-align:center">`The way in which public sector officials govern shared mobility has implications on how sustainable these solutions actually are`</div>
+`<div style="text-align:center">The way in which public sector officials govern shared mobility has implications on how sustainable these solutions actually are</div>`
 
 ## How are cities managing shared mobility today?
 <img align="center" width="800" style="padding: 10px; float: center;" src="/../../images/shared-mobility-regulations.png">
