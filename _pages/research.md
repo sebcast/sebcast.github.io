@@ -18,7 +18,10 @@ This is the basic premise of my research: can we come up with better governance 
 Does this topic catch your attention? then read on!
 
 ## How are cities managing shared mobility today?
-<img align="center" width="350" style="padding: 10px; float: center;" src="images/shared-mobility-regulations.png">
+<img align="center" width="350" style="padding: 10px; float: center;" src="images/.../shared-mobility-regulations.png">
+
+Cities have been taking different paths when it comes to regulation of shared mobility. Some cities have banned it, some cities have embraced it, while some others don't know what to do with it.
+But regulation is but one aspect of governance. Governing involves much more than just enacting a rule. Governing is the management of complex networks of stakeholders, which requires well-prepared and capable officials.
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
