@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* PhD in Transport and public policy - 2018 - 2023 (expected)
-<i class="fas fa-fw fa-graduation-cap"></i>Institute for Transport Studies, University of Leeds, UK,
-* MSc in Transport planning and environment (distinction), Institute for Transport Studies, University of Leeds, UK, 2013-2014
-* Master (ICM) in Project Management and Technology, École Nationale Supérieure des Mines de Saint Étienne, France, 2007-2009
-* BSc in Electronic engineering with minor in Business Administration, Universidad de los Andes, Bogotá, Colombia, 2003-2009
+<i class="fas fa-fw fa-graduation-cap"></i>PhD in Transport and public policy - 2018 - 2023 (expected)
+Institute for Transport Studies, University of Leeds, UK.
+<i class="fas fa-fw fa-graduation-cap"></i>MSc in Transport planning and environment (distinction) - 2013-2014
+Institute for Transport Studies, University of Leeds, UK.
+<i class="fas fa-fw fa-graduation-cap"></i>Master (ICM) in Project Management and Technology - 2007-2009
+École Nationale Supérieure des Mines de Saint Étienne, France
+<i class="fas fa-fw fa-graduation-cap"></i>BSc in Electronic engineering with minor in Business Administration - 2003-2009
+Universidad de los Andes, Bogotá, Colombia
 
 Work experience
 ======
