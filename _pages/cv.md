@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 PhD in Transport and public policy - 2018 - 2023 (expected)  
-<SPAN STYLE="color: silver; font-size: 10pt"><i class="fas fa-fw fa-graduation-cap"></i> Institute for Transport Studies, University of Leeds, UK.</span>  
+<SPAN STYLE="color: #A9A9A9	; font-size: 11pt"><i class="fas fa-fw fa-graduation-cap"></i> Institute for Transport Studies, University of Leeds, UK.</span>  
 MSc in Transport planning and environment (distinction) - 2013-2014  
 <i class="fas fa-fw fa-graduation-cap"></i><SPAN STYLE="color: silver; font-size: 10pt">Institute for Transport Studies, University of Leeds, UK.</span>   
 Master (ICM) in Project Management and Technology - 2007-2009  
