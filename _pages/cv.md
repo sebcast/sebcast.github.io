@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-<i class="fas fa-fw fa-graduation-cap"></i> PhD in Transport and public policy (2018-2023 -expected)  
+<i class="fas fa-fw fa-graduation-cap"></i> PhD in Transport and public policy (2018-2023 expected)  
 <SPAN STYLE="color: #696969	; font-size: 11pt">Institute for Transport Studies, University of Leeds, UK.</span>  
 
 <i class="fas fa-fw fa-graduation-cap"></i> MSc in Transport planning and environment - distinction (2013-2014)  
