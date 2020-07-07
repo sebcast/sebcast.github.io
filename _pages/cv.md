@@ -26,20 +26,20 @@ Education
 Work experience
 ======
 <i class="fas fa-fw fa-briefcase"></i> New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute. (2018 - Present)  
- * <SPAN STYLE="color: #696969	; font-size: 11pt; line-height:1.5">Research Lead</span>  
- * <SPAN STYLE="color: #696969	; font-size: 11pt; line-height:3">Duties include: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</span>  
+ * <SPAN STYLE="color: #696969	; font-size: 11pt; line-height:0.5">Research Lead</span>  
+ * <SPAN STYLE="color: #696969	; font-size: 11pt; line-height:0.5">Duties include: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</span>  
 
 <i class="fas fa-fw fa-briefcase"></i> World Resources Institute - Ross Center for Sustainable Cities (2015 - Present)  
   * <SPAN STYLE="color: #696969	; font-size: 11pt">Senior Manager</span>  
   * <SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.</span>
 
 <i class="fas fa-fw fa-briefcase"></i> GSD+ (2011-2015)  
-* <SPAN STYLE="color: #696969	; font-size: 11pt">Consulting manager</span>   
-+ <SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.</span>
+  * <SPAN STYLE="color: #696969	; font-size: 11pt">Consulting manager</span>   
+  * <SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.</span>
 
-<i class="fas fa-fw fa-briefcase"></i>  2010-2011: Interface engineer 
-  * Woodgroup Colombia
-  * Duties included: Coordinate different interfaces between stakeholders to ensure a good development of a Project in the oil industry. 
+<i class="fas fa-fw fa-briefcase"></i>Woodgroup Colombia (2010-2011)</span>  
+  * <SPAN STYLE="color: #696969	; font-size: 11pt"> Interface engineer</span>  
+  * <SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: Coordinate different interfaces between stakeholders to ensure a good development of a Project in the oil industry.</span> 
   
 * 2009: Internship 
   * PSA Peugeot-Citroën (Usine de St. Ouen)
