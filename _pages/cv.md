@@ -34,8 +34,8 @@ Work experience
   * <SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.</span>
 
 <i class="fas fa-fw fa-briefcase"></i> GSD+ (2011-2015)  
-  * <SPAN STYLE="color: #696969	; font-size: 11pt">Consulting manager</span>   
-  * <SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.</span>
+  <SPAN STYLE="color: #696969	; font-size: 11pt">Consulting manager</span>   
+  <SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.</span>
 
 <i class="fas fa-fw fa-briefcase"></i>Woodgroup Colombia (2010-2011)</span>  
   * <SPAN STYLE="color: #696969	; font-size: 11pt"> Interface engineer</span>  
