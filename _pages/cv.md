@@ -25,7 +25,7 @@ Education
 
 Work experience
 ======
-<i class="fas fa-fw fa-desktop"></i> 2018 - Present: Research Lead
+* 2018 - Present: Research Lead
   * New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute.
   * Duties included: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility
 
