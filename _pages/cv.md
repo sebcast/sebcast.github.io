@@ -41,11 +41,11 @@ Work experience
    <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px"> Interface engineer</span>  
    <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px">Duties included: Coordinate different interfaces between stakeholders to ensure a good development of a Project in the oil industry.</span> 
   
-<i class="fas fa-fw fa-briefcase"></i>PSA Peugeot-Citroën (2009) 
+<i class="fas fa-fw fa-briefcase"></i>PSA Peugeot-Citroën (2009)   
   <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px">Intern</span> 
   <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px">Duties included: Development of management control tools in VBA. Calculation of the budget for the entire factory.</span>    
 
-<i class="fas fa-fw fa-briefcase"></i>Watt Consulting (200)
+<i class="fas fa-fw fa-briefcase"></i>Watt Consulting (2008)  
   <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px">Intern</span>
   <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px">Duties included: Development of a business plan for the evaluation of a technical innovation.</span>   
 
