@@ -27,11 +27,11 @@ Work experience
 ======
 <i class="fas fa-fw fa-briefcase"></i> New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute. (2018 - Present)  
 <ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Research Lead</span>  
-<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</ul></span>
+<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</ul></span>  
 
 <i class="fas fa-fw fa-briefcase"></i> World Resources Institute - Ross Center for Sustainable Cities (2015 - Present)  
-<ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Senior Manager</span>  
-<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.</ul></span>
+  * <SPAN STYLE="color: #696969	; font-size: 11pt">Senior Manager</span>  
+  * <SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.</span>
 
 <i class="fas fa-fw fa-briefcase"></i> GSD+ (2011-2015)  
 <ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Consulting manager</span>   
