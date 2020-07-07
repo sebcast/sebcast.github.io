@@ -26,8 +26,8 @@ Education
 Work experience
 ======
 <i class="fas fa-fw fa-briefcase"></i> New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute. (2018 - Present)  
-<ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Research Lead  
-<li>Duties included: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</span></li>
+<ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Research Lead</span>  
+<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</li></span>
 
 * 2015 - Present: Senior Manager
   * World Resources Institute - Ross Center for Sustainable Cities
