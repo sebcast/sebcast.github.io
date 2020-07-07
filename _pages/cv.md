@@ -27,15 +27,15 @@ Work experience
 ======
 <i class="fas fa-fw fa-briefcase"></i> New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute. (2018 - Present)  
 <ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Research Lead</span>  
-<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</ul></span>
+<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</ul></span>
 
-* 2015 - Present: Senior Manager
-  * World Resources Institute - Ross Center for Sustainable Cities
-  * Duties included: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.
+<i class="fas fa-fw fa-briefcase"></i> World Resources Institute - Ross Center for Sustainable Cities (2015 - Present)  
+<ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Senior Manager</span>  
+<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties include: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.</ul></span>
 
-* 2011-2015: Consulting manager
-  * GSD+
-  * Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.
+<i class="fas fa-fw fa-briefcase"></i> GSD+ (2011-2015)  
+<ul><li><SPAN STYLE="color: #696969	; font-size: 11pt">Consulting manager</span>   
+<li><SPAN STYLE="color: #696969	; font-size: 11pt">Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.</ul></span>
 
 * 2010-2011: Interface engineer 
   * Woodgroup Colombia
