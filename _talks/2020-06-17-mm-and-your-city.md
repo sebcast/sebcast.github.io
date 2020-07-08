@@ -3,7 +3,7 @@ title: "Micromobility & Your City: Leveraging Mobility Data to Achieve Policy Ou
 collection: talks
 type: "Talk"
 permalink: /talks/2020-06-17-mm-and-your-city
-venue: "UC San Francisco, Department of Testing"
+venue: "Online webinar"
 date: 2020-06-17
 location: "Washington, DC"
 ---
