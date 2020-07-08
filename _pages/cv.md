@@ -48,7 +48,7 @@ Work experience
 <i class="fas fa-fw fa-briefcase"></i>Watt Consulting (2008)  
   <div class="padded-multilinebold">Intern</div>  
  <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div>   
-
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
