@@ -1,7 +1,7 @@
 ---
-title: "Climate Technology Transfer in Latin America: Lessons from the Transport Sector"
+title: "COP 25 - Climate Technology Transfer in Latin America: Lessons from the Transport Sector"
 collection: talks
-type: "Conference"
+type: "Panel and presentation"
 permalink: /talks/2019-12-09-cop-tech-transfer
 venue: "IFEMA"
 date: 2020-06-17
