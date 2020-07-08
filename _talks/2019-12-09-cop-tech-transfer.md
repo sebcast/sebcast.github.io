@@ -1,5 +1,5 @@
 ---
-title: "Climate Technology Transfer in Latin America:Lessons from the Transport Sector"
+title: "Climate Technology Transfer in Latin America: Lessons from the Transport Sector"
 collection: talks
 type: "Conference"
 permalink: /talks/2019-12-09-cop-tech-transfer
