@@ -49,7 +49,6 @@ Work experience
   <div class="padded-multilinebold">Intern</div>  
  <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div>   
 <br>  
-
 Publications
 ======
   <ul>{% for post in site.publications %}
