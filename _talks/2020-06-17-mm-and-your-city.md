@@ -1,7 +1,7 @@
 ---
 title: "Micromobility & Your City: Leveraging Mobility Data to Achieve Policy Outcomes [Webinar]"
 collection: talks
-type: "Talk"
+type: "Webinar"
 permalink: /talks/2020-06-17-mm-and-your-city
 venue: "Online webinar"
 date: 2020-06-17
