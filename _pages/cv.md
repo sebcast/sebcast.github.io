@@ -26,28 +26,28 @@ Education
 Work experience
 ======
 <i class="fas fa-fw fa-briefcase"></i> New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute. (2018 - Present)  
- <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px">Research Lead</span>  
+<div class="padded-multilinebold">Research Lead</div>  
 <div class="padded-multiline">Duties include: overseeing research and content strategy on tech-driven disruptions in mobility including micromobility, autonomous vehicles, electric vehicles and shared mobility</div>  
 
 <i class="fas fa-fw fa-briefcase"></i> World Resources Institute - Ross Center for Sustainable Cities (2015 - Present)  
-  <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px">Senior Manager</span>  
-  <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px; position: outside">Duties include: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.</span>
+  <div class="padded-multilinebold">Senior Manager</div>  
+ <div class="padded-multiline">Duties include: Lead of the electric vehicles and vehicle efficiency solution area, in charge of defining the strategy for electric vehicles in WRI and overseeing projects in Mexico, Brazil, India, China, Turkey and Ethiopia.</div>
 
 <i class="fas fa-fw fa-briefcase"></i> GSD+ (2011-2015)  
-  <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px">Consulting manager</span>   
-  <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px">Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.</span>
+  <div class="padded-multilinebold">Consulting manager</div>   
+  <div class="padded-multiline">Duties included: Leading multidisciplinary teams (engineers, lawyers, business administrators) for the successful delivery of ITS projects, mainly in the public transport fare collection, fleet management and electronic vehicle identification areas.</div>
 
 <i class="fas fa-fw fa-briefcase"></i>Woodgroup Colombia (2010-2011)  
-   <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px"> Interface engineer</span>  
-   <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px">Duties included: Coordinate different interfaces between stakeholders to ensure a good development of a Project in the oil industry.</span> 
+  <div class="padded-multilinebold"> Interface engineer</div>  
+  <div class="padded-multiline">Duties included: Coordinate different interfaces between stakeholders to ensure a good development of a Project in the oil industry.</div> 
   
 <i class="fas fa-fw fa-briefcase"></i>PSA Peugeot-Citroën (2009)  
-  <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px">Intern</span>  
-  <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px">Duties included: Development of management control tools in VBA. Calculation of the budget for the entire factory.</span>    
+  <div class="padded-multilinebold">Intern</div>  
+  <div class="padded-multiline">Duties included: Development of management control tools in VBA. Calculation of the budget for the entire factory.</div>    
 
 <i class="fas fa-fw fa-briefcase"></i>Watt Consulting (2008)  
-  <SPAN STYLE="color: #696969	; font-size: 11pt; font-weight: bold; margin-left: 28px">Intern</span>  
-  <SPAN STYLE="color: #696969	; font-size: 11pt; margin-left: 28px">Duties included: Development of a business plan for the evaluation of a technical innovation.</span>   
+  <div class="padded-multilinebold">Intern</div>  
+ <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div>   
 
 Publications
 ======
