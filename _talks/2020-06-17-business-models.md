@@ -2,7 +2,7 @@
 title: "Business models for electric bus adoption"
 collection: talks
 type: "Webinar"
-permalink: /talks/2020-06-17-mm-and-your-city
+permalink: /talks/2020-06-17-business-models
 venue: "Online"
 date: 2018-12-12
 location: "Washington, DC"
