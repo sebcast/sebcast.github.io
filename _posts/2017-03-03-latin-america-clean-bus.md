@@ -1,7 +1,7 @@
 ---
 title: "What’s Holding Back Latin American Cities’ Clean Bus Transition?"
 date: 2017-03-03
-permalink: 2017-03-03-latin-america-clean-bus/
+permalink: /posts/2017/03/2017-03-03-latin-america-clean-bus/
 tags:
   - cool posts
   - category1
