@@ -50,9 +50,9 @@ Work experience
  <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div><p></p>   
    
    
-<i class="fas fa-fw fa-book"></i> Publications 
+Publications 
 ======
-  <ul>{% for post in site.publications %}
+  <ul><i class="fas fa-fw fa-book"></i> {% for post in site.publications %}
      {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -60,12 +60,6 @@ Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
