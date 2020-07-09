@@ -23,7 +23,7 @@ redirect_from:
 * BSc in Electronic engineering with minor in Business Administration (2003-2009)  
   <SPAN STYLE="color: #696969	; font-size: 11pt">Universidad de los Andes, Bogotá, Colombia</span> 
 
-<i class="fas fa-fw fa-briefcase"></i> Work experience
+</i> Work experience
 ======
 <i class="fas fa-fw fa-briefcase"></i> New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute (2018 - Present)  
  <div class="padded-multilinebold">Research Lead</div> 
