@@ -59,5 +59,5 @@ Work experience
 Talks
 ======
   {% for post in site.talks %}
-    cat('<i class="fas fa-fw fa-comments"></i>')  {% include archive-single-talk-cv.html %}
+     {% include archive-single-talk-cv.html %}
   {% endfor %}
