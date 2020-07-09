@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-<i class="fas fa-fw fa-graduation-cap"></i> Education
+Education
 ======
-* PhD in Transport and public policy (2018-2023 expected)  
+<i class="fas fa-fw fa-graduation-cap"></i> PhD in Transport and public policy (2018-2023 expected)  
   <SPAN STYLE="color: #696969	; font-size: 11pt">Institute for Transport Studies, University of Leeds, UK.</span>  
 
-* MSc in Transport planning and environment - distinction (2013-2014)  
+<i class="fas fa-fw fa-graduation-cap"></i> MSc in Transport planning and environment - distinction (2013-2014)  
   <SPAN STYLE="color: #696969	; font-size: 11pt">Institute for Transport Studies, University of Leeds, UK.</span>   
   
-* Master (ICM) in Project Management and Technology (2007-2009)  
+<i class="fas fa-fw fa-graduation-cap"></i> Master (ICM) in Project Management and Technology (2007-2009)  
   <SPAN STYLE="color: #696969	; font-size: 11pt">École Nationale Supérieure des Mines de Saint Étienne, France</span>  
   
-* BSc in Electronic engineering with minor in Business Administration (2003-2009)  
+<i class="fas fa-fw fa-graduation-cap"></i> BSc in Electronic engineering with minor in Business Administration (2003-2009)  
   <SPAN STYLE="color: #696969	; font-size: 11pt">Universidad de los Andes, Bogotá, Colombia</span> 
 
 Work experience
@@ -50,13 +50,13 @@ Work experience
  <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div><p></p>   
    
    
-Publications 
+<i class="fas fa-fw fa-book"></i>Publications 
 ======
-   {% for post in site.publications %}
-     <i class="fas fa-fw fa-book"></i>{% include archive-single-cv.html %}
-  {% endfor %}
+  <ul> {% for post in site.publications %}
+     {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
-Talks
+<i class="fas fa-fw fa-comments"></i>Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
