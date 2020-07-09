@@ -53,7 +53,7 @@ Work experience
 Publications
 ======
   {% for post in site.publications %}
-    <i class="fas fa-fw fa-book"></i>{% include archive-single-cv.html %}
+    "<i class="fas fa-fw fa-book"></i>" {% include archive-single-cv.html %}
   {% endfor %}
   
 Talks
