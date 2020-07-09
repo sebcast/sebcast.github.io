@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<i class="fas fa-fw fa-graduation-cap"></i> Education
 ======
 <i class="fas fa-fw fa-graduation-cap"></i> PhD in Transport and public policy (2018-2023 expected)  
 <SPAN STYLE="color: #696969	; font-size: 11pt">Institute for Transport Studies, University of Leeds, UK.</span>  
@@ -23,7 +23,7 @@ Education
 <i class="fas fa-fw fa-graduation-cap"></i> BSc in Electronic engineering with minor in Business Administration (2003-2009)  
   <SPAN STYLE="color: #696969	; font-size: 11pt">Universidad de los Andes, Bogotá, Colombia</span> 
 
-Work experience
+<i class="fas fa-fw fa-briefcase"></i> Work experience
 ======
 <i class="fas fa-fw fa-briefcase"></i> New Urban Mobility Alliance (NUMO) hosted by the World Resources Institute (2018 - Present)  
  <div class="padded-multilinebold">Research Lead</div> 
@@ -50,7 +50,7 @@ Work experience
  <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div><p></p>   
    
    
-Publications <i class="fas fa-fw fa-book"></i>
+<i class="fas fa-fw fa-book"></i> Publications 
 ======
   <ul>{% for post in site.publications %}
      {% include archive-single-cv.html %}
