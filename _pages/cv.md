@@ -50,9 +50,9 @@ Work experience
  <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div><p></p>   
    
    
-Publications
+Publications <i class="fas fa-fw fa-book"></i>
 ======
-  <ul><i class="fas fa-fw fa-book"></i>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
      {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
