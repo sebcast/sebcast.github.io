@@ -4,7 +4,7 @@ collection: talks
 type: "Blog"
 permalink: /talks/2018-12-21-dc-scooters
 venue: "TheCityFix"
-date: 2018-12-12
+date: 2018-12-21
 location: "Washington, DC"
 ---
 Washington, DC, has been one of the foremost laboratories for tech-driven innovations in the transport sector. The city implemented North America’s first bike-share system, and most recently it welcomed companies to experiment with the latest transport trend: “micro mobility,”
