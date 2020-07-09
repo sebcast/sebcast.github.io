@@ -56,8 +56,8 @@ Work experience
      {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<i class="fas fa-fw fa-comments"></i>Talks
+Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% for post in site.talks %}
+    cat('<i class="fas fa-fw fa-comments"></i>')  {% include archive-single-talk-cv.html %}
+  {% endfor %}
