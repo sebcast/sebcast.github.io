@@ -50,7 +50,7 @@ Work experience
  <div class="padded-multiline">Duties included: Development of a business plan for the evaluation of a technical innovation.</div><p></p>   
    
    
-<i class="fas fa-fw fa-book"></i>Publications 
+Publications 
 ======
   <ul> {% for post in site.publications %}
      {% include archive-single-cv.html %}
@@ -58,6 +58,6 @@ Work experience
   
 Talks
 ======
-  {% for post in site.talks %}
+  <ul>{% for post in site.talks %}
      {% include archive-single-talk-cv.html %}
-  {% endfor %}
+  {% endfor %}</ul>
