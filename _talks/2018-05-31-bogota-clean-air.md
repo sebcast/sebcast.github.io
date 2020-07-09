@@ -4,7 +4,7 @@ collection: talks
 type: "Blog"
 permalink: /talks/2018-05-31-bogota-clean-air
 venue: "TheCityFix"
-date: 2018-12-12
+date: 2018-05-31
 location: "Washington, DC"
 ---
 Bogotá is one of Latin America’s most polluted cities—but thanks to its citizens, its air may be getting cleaner.
